@@ -107,11 +107,11 @@ function submitQuiz() {
   const resultElement = document.getElementById( 'quiz-result' );
   
   if ( score === 5 ) {
-    resultElement.textContent = `Wow, du hast ${ score } von 5 Fragen richtig! 🎉 Scheinbar kennst du mich ja besser als ich dachte, hehe`
+    resultElement.textContent = `Wow, du hast ${ score } von 5 Fragen richtig! 🎉 Du kennst mich ja wirklich gut, hehe`
   } else if ( score >= 3 ) {
     resultElement.textContent = `Du hast ${ score } von 5 Fragen richtig! 🎉 Nicht schlecht, du kennst mich ziemlich gut ^^`
   } else {
-    resultElement.textContent = `Du hast ${ score } von 5 Fragen richtig! 😅 Das ist schon okay :D Ich liebe dich immer noch Hanni <3`
+    resultElement.textContent = `Du hast ${ score } von 5 Fragen richtig! 😅 Das ist schon okay :D Ich hab dich immer noch lieb <3`
   } 
 }
 
