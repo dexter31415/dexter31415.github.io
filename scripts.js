@@ -2,7 +2,7 @@ function checkPassword() {
   const password = document.getElementById('password').value;
   const errorMessage = document.getElementById('error-message');
 
-  const correctPassword = 'secretlab123';
+  const correctPassword = 'paris2019';
 
   if (password === correctPassword) {
     document.getElementById('login').style.display = 'none';
