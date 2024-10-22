@@ -82,9 +82,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function submitQuiz() {
   const correctAnswers = {
-    q1: 'Black',
-    q2: 'Despicable Me 4',
-    q3: 'Bun Bo Hue',
+    q1: 'Red',
+    q2: 'Inside Out 2',
+    q3: 'Pho',
     q4: 'Tokyo',
     q5: '9Gaming'
   };
