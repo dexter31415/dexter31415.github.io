@@ -1,12 +1,12 @@
 {
-    "name": "Yêu Em Bé Thư Kỳ <3",
-    "short_name": "YeuEmBeThuKy",
+    "name": "Für Hanni <3",
+    "short_name": "Love",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#ff6b6b",
-    "author": "Son Nguyen",
-    "description": "A web app to celebrate Thu Ky's birthday!",
+    "author": "Darren Heisel",
+    "description": "Für Hanni",
     "icons": [
         {
         "src": "images/android-chrome-192x192.png",
