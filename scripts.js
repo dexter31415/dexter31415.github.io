@@ -9,7 +9,7 @@ function checkPassword() {
     document.getElementById('main-content').style.display = 'block';
     initiateAnimations();
   } else {
-    errorMessage.textContent = 'Falsches Passwort! Versuch es nochmal.';
+    errorMessage.textContent = 'Falsches Passwort! Du musst dich noch ein bisschen gedulden Hanni 😉';
   }
 }
 
