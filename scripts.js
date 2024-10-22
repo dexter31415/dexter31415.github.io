@@ -134,8 +134,8 @@ function updateCountdown(targetDate, countdownId) {
   }
 }
 
-const vietnamDate = new Date('December 15, 2024 00:00:00').getTime();
-const birthdayDate = new Date('November 9, 2024 00:00:00').getTime();
+const vietnamDate = new Date('December 22, 2024 00:00:00').getTime();
+const birthdayDate = new Date('December 31, 2024 00:00:00').getTime();
 
 setInterval(() => {
   updateCountdown(vietnamDate, 'vn');
