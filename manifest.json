@@ -4,18 +4,18 @@
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
-    "theme_color": "#ff6b6b",
+    "theme_color": "#87264B",
     "author": "Darren Heisel",
     "description": "Für Hanni",
     "icons": [
         {
-        "src": "images/android-chrome-192x192.png",
+        "src": "images/Heart icon.png",
         "sizes": "192x192",
         "type": "image/png",
         "purpose": "any maskable"
         },
         {
-        "src": "images/android-chrome-512x512.png",
+        "src": "images/Heart icon.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "any maskable"
